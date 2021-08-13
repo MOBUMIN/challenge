@@ -27,3 +27,4 @@ dev.js
 .env
 backend/.env
 CommonVariable.js
+frontend/src/CommonVariable.js
